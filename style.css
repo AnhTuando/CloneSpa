@@ -297,7 +297,7 @@ header .logo:hover {
 .cart-wrap .cart-2:hover,
 .cart-wrap .cart-3:hover {
   transition: 0.2s;
-  box-shadow: 2px 2px 5px #c9c9c9;
+  box-shadow: 0 5px 20px #f0f0f0;
 }
 
 .cart-wrap .cart-1:hover > .btn,
