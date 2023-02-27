@@ -46,15 +46,15 @@ header .logo:hover {
 /* Slider */
 
 .slider {
+  width: 100%;
   display: flex;
+  justify-content: space-between;
 }
 .slider .banner-1 {
-  height: 430px;
-  width: 205px;
   margin: 12% 0;
 }
 .slider .slider-info {
-  margin: 15% 50px;
+  margin: 15% 0px;
   display: flex;
   flex-direction: column;
 }
@@ -434,6 +434,12 @@ header .logo:hover {
   background-color: #fff9f8;
   flex-basis: 70%;
   padding: 50px 100px;
+}
+.form-wrap .row-4,
+.form-wrap .row-3,
+.form-wrap .row-2,
+.form-wrap .row-1 {
+  display: flex;
 }
 .form-wrap .row-2 select,
 .form-wrap .row-4 input,
