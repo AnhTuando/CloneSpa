@@ -623,3 +623,8 @@ header .logo:hover {
 .footer .copyright a {
   color: #ff817e;
 }
+
+.footer ul li a:hover {
+  color: #ff817e;
+  transition: 0.25s;
+}
